@@ -1,0 +1,16 @@
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+}
+h4{
+    font-family:sans-serif;
+}
+body{
+    background-color:deepskyblue;
+}
+button{
+    background-color: crimson;
+    border-style:dashed;
+    height: 30px;
+    width: 100px;;
+}
